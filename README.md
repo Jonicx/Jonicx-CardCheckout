@@ -1,2 +1,1 @@
-# Jonicx-CardCheckout
-The CheckOutCard
+
